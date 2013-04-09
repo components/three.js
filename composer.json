@@ -1,0 +1,53 @@
+{
+    "name": "components/three.js",
+    "description": "ThreeJS JavaScript 3D library",
+    "type": "component",
+    "homepage": "http://threejs.org/",
+    "license": "MIT",
+    "support": {
+        "irc": "http://webchat.freenode.net/?channels=three.js",
+        "issues": "http://github.com/mrdoob/three.js/issues",
+        "wiki": "http://github.com/mrdoob/three.js/wiki",
+        "source": "http://github.com/mrdoob/three.js/"
+    },
+    "authors": [
+        {
+            "name": "mrdoob",
+            "homepage": "https://github.com/mrdoob"
+        },
+        {
+            "name": "alteredq",
+            "homepage": "https://github.com/alteredq"
+        },
+        {
+            "name": "bhouston",
+            "homepage": "https://github.com/bhouston"
+        },
+        {
+            "name": "zz85",
+            "homepage": "https://github.com/zz85"
+        },
+        {
+            "name": "gero3",
+            "homepage": "https://github.com/gero3"
+        },
+        {
+            "name": "sole",
+            "homepage": "https://github.com/sole"
+        }
+    ],
+    "require": {
+        "robloach/component-installer": "*"
+    },
+    "extra": {
+        "component": {
+            "name": "threejs",
+            "scripts": [
+                "three.js"
+            ],
+            "shim": {
+                "exports": "THREE"
+            }
+        }
+    }
+}

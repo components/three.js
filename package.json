@@ -1,0 +1,42 @@
+{
+  "name": "components-three.js",
+  "version": "0.0.57",
+  "author": "mrdoob",
+  "description": "ThreeJS JavaScript 3D library",
+  "keywords": [
+    "threejs"
+  ],
+  "contributors": [
+    {
+      "name": "mrdoob",
+      "homepage": "https://github.com/mrdoob"
+    },
+    {
+      "name": "alteredq",
+      "homepage": "https://github.com/alteredq"
+    },
+    {
+      "name": "bhouston",
+      "homepage": "https://github.com/bhouston"
+    },
+    {
+      "name": "zz85",
+      "homepage": "https://github.com/zz85"
+    },
+    {
+      "name": "gero3",
+      "homepage": "https://github.com/gero3"
+    },
+    {
+      "name": "sole",
+      "homepage": "https://github.com/sole"
+    }
+  ],
+  "main": "./three.js",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/components/three.js.git"
+  },
+  "license": "MIT"
+}
