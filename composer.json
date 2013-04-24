@@ -45,6 +45,9 @@
             "scripts": [
                 "three.js"
             ],
+            "files": [
+                "three.min.js"
+            ],
             "shim": {
                 "exports": "THREE"
             }
