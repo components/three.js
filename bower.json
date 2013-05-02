@@ -1,7 +1,6 @@
 {
   "name": "components-threejs",
   "version": "0.0.57",
-  "repo": "components/three.js",
   "author": "mrdoob",
   "description": "ThreeJS JavaScript 3D library",
   "license": "MIT",
@@ -9,8 +8,5 @@
     "type": "git",
     "url": "git://github.com/components/three.js.git"
   },
-  "main": "three.js",
-  "scripts": [
-    "three.js"
-  ]
+  "main": "three.js"
 }
