@@ -5,6 +5,7 @@
   "author": "mrdoob",
   "description": "ThreeJS JavaScript 3D library",
   "license": "MIT",
+  "main": "three.js",
   "scripts": [
     "three.js"
   ]
