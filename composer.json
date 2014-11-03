@@ -5,7 +5,7 @@
     "homepage": "http://threejs.org/",
     "license": "MIT",
     "support": {
-        "irc": "http://webchat.freenode.net/?channels=three.js",
+        "irc": "irc://freenode.net/three.js",
         "issues": "http://github.com/mrdoob/three.js/issues",
         "wiki": "http://github.com/mrdoob/three.js/wiki",
         "source": "http://github.com/mrdoob/three.js/"

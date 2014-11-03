@@ -8,5 +8,11 @@
     "type": "git",
     "url": "git://github.com/components/three.js.git"
   },
-  "main": "three.js"
+  "main": "three.js",
+  "ignore": [
+    "Makefile",
+    "package.json",
+    "composer.json",
+    "component.json"
+  ]
 }
