@@ -36,9 +36,6 @@
             "homepage": "https://github.com/sole"
         }
     ],
-    "require": {
-        "robloach/component-installer": "*"
-    },
     "extra": {
         "component": {
             "name": "threejs",
