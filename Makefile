@@ -1,4 +1,4 @@
-VERSION=r69
+VERSION=r70
 
 default:
 	@curl -O https://cdnjs.cloudflare.com/ajax/libs/three.js/$(VERSION)/three.js
