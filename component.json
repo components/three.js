@@ -1,7 +1,7 @@
 {
   "name": "threejs",
   "repo": "components/three.js",
-  "version": "0.0.70",
+  "version": "0.0.71",
   "author": "mrdoob",
   "description": "ThreeJS JavaScript 3D library",
   "license": "MIT",
